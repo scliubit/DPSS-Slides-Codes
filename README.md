@@ -11,7 +11,7 @@ Codes and Slides for paper "DPSS-based Codebook Design for Near-Field XL-MIMO Ch
 @inproceedings{liu2023dpssbased,
     author={Liu, Shicong and Yu, Xianghao and Gao, Zhen and Ng, Derrick Wing Kwan},
 	booktitle={Proc. IEEE Int. Conf. Commun. (ICC)}, 
-	title={{DPSS}-based dictionary design for near-Field {XL-MIMO} channel estimation}, 
+	title={{DPSS}-based dictionary design for near-field {XL-MIMO} channel estimation}, 
 	address={Denvor, CO, USA},
 	year={2024},
 	month={Jun.},
@@ -24,5 +24,5 @@ Codes and Slides for paper "DPSS-based Codebook Design for Near-Field XL-MIMO Ch
 
 `plain text`
 ```
-S. Liu, X. Yu, Z. Gao, and D. W. K. Ng, ``DPSS-based dictionary design for near-Field XL-MIMO channel estimation'', in {\em Proc. IEEE Int. Conf. Commun. (ICC)}, Denver, CO, USA, Jun. 2024, {\em to appear}.
+S. Liu, X. Yu, Z. Gao, and D. W. K. Ng, ``DPSS-based dictionary design for near-field XL-MIMO channel estimation'', in {\em Proc. IEEE Int. Conf. Commun. (ICC)}, Denver, CO, USA, Jun. 2024, {\em to appear}.
 ```
