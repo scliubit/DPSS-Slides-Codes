@@ -299,3 +299,14 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
+
+# matlab
+*.mltbx
+*.mltbxh
+*.asv
+
+# Slides
+/Slides/assets/
+/Slides/citations.bib
+/Slides/slides_icc24.tex
+.DS_Store
