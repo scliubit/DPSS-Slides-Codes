@@ -12,7 +12,7 @@ Codes and Slides for paper "DPSS-based Codebook Design for Near-Field XL-MIMO Ch
     author={Liu, Shicong and Yu, Xianghao and Gao, Zhen and Ng, Derrick Wing Kwan},
 	booktitle={Proc. IEEE Int. Conf. Commun. (ICC)}, 
 	title={{DPSS}-based dictionary design for near-field {XL-MIMO} channel estimation}, 
-	address={Denvor, CO, USA},
+	address={Denver, CO, USA},
 	year={2024},
 	month={Jun.},
 	volume={},
